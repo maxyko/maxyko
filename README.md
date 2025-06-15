@@ -18,7 +18,7 @@
 # Work experience:
 
 ### 22.01.2018 - present: ‘SoftServe’
-***Senior DevOps Engineer***
+***DevOps Engineer***
 Responsibilities:
 - support/maintenance services: Gitlab, Harbor, Jenkins
 - deployment: Terraform, Helm, Ansible
